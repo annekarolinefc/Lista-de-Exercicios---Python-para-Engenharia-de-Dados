@@ -12,7 +12,6 @@ Especialização em Engenharia de Dados - PUC Minas
 
 :green_circle: Finalizado
 
-
 ### Atividades
 
 | Conteúdo | Status | Link das Atividaes|
@@ -27,5 +26,5 @@ Especialização em Engenharia de Dados - PUC Minas
 |Trabalhando com Pandas|:green_circle:|[Clique Aqui](./Pandas/Exerc%C3%ADcios%20-%20Pandas.ipynb)|
 |Acessando o SQLite com o Python|:red_circle:||
 |Visualização de Dados|:green_circle:|[Clique Aqui](./Matplotlib/Exerc%C3%ADcios%20-%20Visualiza%C3%A7%C3%A3o%20de%20Dados.ipynb)|
-|Manipulação de dados com APIs|:green_circle:|[Clique aqui](./Manipula%C3%A7%C3%A3o%20de%20dados%20com%20APIs/Exercicios.ipynb)|
+|Manipulação de dados com APIs|:green_circle:|[Clique aqui](./Manipula%C3%A7%C3%A3o%20de%20dados%20com%20APIs/Exerc%C3%ADcios_Manipula%C3%A7%C3%A3o%20de%20dados%20com%20APIs.ipynb)|
 |Projeto Final - COVID-19|:red_circle:||
